@@ -21,7 +21,7 @@
 
 <br>
 
-[![ChemnadCS](https://github-readme-stats.vercel.app/api/pin/?username=naseefcr&repo=image_gen&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/naseefcr/chemnadcs)&nbsp;
+[![ChemnadCS](https://github-readme-stats.vercel.app/api/pin/?username=naseefcr&repo=thilakkam-deals&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/naseefcr/chemnadcs)&nbsp;
 [![Thilakkamdeals](https://github-readme-stats.vercel.app/api/pin/?username=naseefcr&repo=ThilakkamDeals_privacy&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/naseefcr/thilakkamdeals)
 <br>
 [![Automated Weather-related AI Image Display](https://github-readme-stats.vercel.app/api/pin/?username=naseefcr&repo=fish-data-privacy&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/naseefcr/weather-ai-display)
