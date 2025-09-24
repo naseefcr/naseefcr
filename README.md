@@ -6,7 +6,7 @@
 
 # <img src="assets/icons/Waving Hand Medium Skin Tone.png" width="50px"> &nbsp;<b>Hi There! I'm Abdul Rahman Naseef C R</b>
 
-<h3>I'm a passionate Software Developer proficient in crafting cross-platform mobile applications with over 2+ years of experience.</h3> 
+<h3>I'm a passionate Software Developer proficient in crafting cross-platform mobile applications with over 3+ years of experience.</h3> 
 <ul>
 <li> <img src="assets/icons/Telescope.webp" width="36px">  I'm currently working on innovative projects using Flutter.</li>
 <li> <img src="assets/icons/Comet.png" width="36px">  I love solving programming challenges, coding, and building various software projects with Dart & Flutter.</li>
