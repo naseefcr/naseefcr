@@ -1,55 +1,92 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdul-rahman-naseef-c-r-341378226)](https://www.linkedin.com/in/abdul-rahman-naseef-c-r-341378226) &nbsp;
-[![Followers](https://img.shields.io/github/followers/naseefcr?style=for-the-badge&logo=Github&label=Followers&labelColor=1A3549&&color=008080)](https://github.com/naseefcr) &nbsp;
-[![Stars](https://img.shields.io/github/stars/naseefcr?style=for-the-badge&logo=Github&label=stars&labelColor=1A3549&color=008080)](https://github.com/naseefcr) &nbsp;<br>
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=naseefcr&style=for-the-badge&color=1A3549)
+# Abdul Rahman Naseef C R
 
-# <img src="assets/icons/Waving Hand Medium Skin Tone.png" width="50px"> &nbsp;<b>Hi There! I'm Abdul Rahman Naseef C R</b>
+**Software developer & entrepreneur · Co-founder, Wellnoc Global LLP**
 
-<h3>I'm a passionate Software Developer proficient in crafting cross-platform mobile applications with over 3+ years of experience.</h3> 
-<ul>
-<li> <img src="assets/icons/Telescope.webp" width="36px">  I'm currently working on innovative projects using Flutter.</li>
-<li> <img src="assets/icons/Comet.png" width="36px">  I love solving programming challenges, coding, and building various software projects with Dart & Flutter.</li>
-<li><img src="assets/icons/Spider Web.webp" width="32px">&nbsp; I have a deep interest in Web technologies and mobile application development.</li> 
-<li><img src="assets/icons/Lady Beetle.png" width="32px">&nbsp; Occasionally produce more bugs than features, but always learning from them.</li>
-<li> <img src="assets/icons/Inbox Tray.webp" width="36px"> Contact me via <a href="mailto:naseefcr19@gmail.com">naseefcr19@gmail.com</a>.</li>
-</ul>
+Building software, digital solutions and SaaS products at **Wellnoc Technologies** · Kasaragod, Kerala, India 🇮🇳
 
-&nbsp;
+[![Website](https://img.shields.io/badge/Wellnoc_Technologies-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.wellnoctech.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rahman-naseef-c-r-341378226)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naseefcr19@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://naseefcr.github.io)
 
-## <img src="assets/icons/Rocket.png" width="36px"> &nbsp;My Showcase Projects 
+</div>
 
-<br>
+---
 
-[![ChemnadCS](https://github-readme-stats.vercel.app/api/pin/?username=naseefcr&repo=thilakkam-deals&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/naseefcr/chemnadcs)&nbsp;
-[![Thilakkamdeals](https://github-readme-stats.vercel.app/api/pin/?username=naseefcr&repo=ThilakkamDeals_privacy&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/naseefcr/thilakkamdeals)
-<br>
-[![Automated Weather-related AI Image Display](https://github-readme-stats.vercel.app/api/pin/?username=naseefcr&repo=fish-data-privacy&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/naseefcr/weather-ai-display)
-&nbsp;
-[![Local Shop Application](https://github-readme-stats.vercel.app/api/pin/?username=naseefcr&repo=CV&theme=dark&title_color=7fff00&text_color=7fff00)](https://github.com/naseefcr/local-shop-app)
+## 👋 About me
 
-&nbsp;
-## <img src="assets/icons/Heart with Arrow.png" width="36px">&nbsp;Love my work? 
+I'm a software developer and entrepreneur from **Kasaragod, Kerala**, with a **Master's degree in Computer Science**.
 
-<img src="assets/icons/Star.png" width="25"/>&nbsp;[Give me stars](https://github.com/naseefcr/chemnadcs) <br/>
-<img src="assets/icons/Folded Hands Medium Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/naseefcr)<br/>
-<img src="assets/icons/Fire.png" width="25"/>&nbsp;[Check my portfolio](https://YourPortfolioURL)<br/>
-<img src="assets/icons/Writing Hand.webp" width="25"/>&nbsp;[Read my blogs (WIP)](https://YourBlogURL/)<br/>
-<img src="assets/icons/Hot Beverage.png" width="25"> [Buy me a coffee](https://buymeacoffee.com/YourUsername) (Tired of drinking Tea)
+I'm the **Co-founder of Wellnoc Global LLP**, under which I established **Wellnoc Technologies** — a technology business focused on software development, digital solutions and SaaS products.
 
+Alongside building software for clients, I design and ship my own products. I'm currently focused on growing Wellnoc Technologies from an early-stage venture into a sustainable, innovative technology company, with the long-term vision of serving businesses and customers **internationally**.
 
->> Thanks for visiting my Github. <img src="assets/icons/Partying Face.png" width="24px">
+## 🚀 What I'm building
 
-## <img src="assets/icons/Hourglass Done.webp" width="36px"> &nbsp;Github Stats
+| | |
+|---|---|
+| **[Wellnoc Technologies](https://www.wellnoctech.com/)** | Software agency for custom web and mobile apps, e-commerce, inventory and ERP systems — NDA-protected, milestone-based delivery. |
+| **[Earth Movers Pro](https://www.earthmovers.pro/home)** | My own SaaS product: a fleet and business management platform for earthmoving companies — work logs, diesel and expense tracking, operator payments and reports. On Google Play, the App Store and the web. |
+| **[Wellnoc](https://www.wellnoc.com/)** | A Japan-focused education and career venture: language training, university admissions and scholarships. |
 
-<br>
+### 📱 Live on the app stores
 
-![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naseefcr&theme=chartreuse_dark)
+[![Google Play](https://img.shields.io/badge/Google_Play-Wellnoc_Solutions-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Wellnoc+Solutions)
+[![App Store](https://img.shields.io/badge/App_Store-Wellnoc_Global_LLP-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/in/developer/wellnoc-global-llp/id1896582695)
 
-![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=naseefcr&theme=chartreuse_dark)&nbsp;&nbsp;
-&nbsp;
-![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naseefcr&theme=chartreuse_dark&utcOffset=8)
+| App | What it does | Platforms |
+|---|---|---|
+| **Earth Movers Pro** | Fleet, work-log, expense and payroll management for earthmoving businesses | Android · iOS · Web |
+| **Workers Pro** | Workforce management app | Android |
+| **Feastvero** | Catering & events management | Android |
+| **Wellnoc Orbit** | Wellnoc's own app | Android |
+| **Al-Bader Islamic App** | Prayer times, Qur'an and duas | iPhone · iPad |
 
-![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naseefcr&theme=chartreuse_dark)&nbsp;&nbsp;
-&nbsp;
-![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naseefcr&theme=chartreuse_dark)
+### Selected client work (via Wellnoc Technologies)
+
+| Project | What it is |
+|---|---|
+| **[PaperBee Books](https://mypaperbee.com/)** | Publishing platform and online bookstore. |
+| **[Effi Online Store](https://www.effionlinestore.com/)** | E-commerce storefront with WhatsApp-integrated ordering and fast product filtering. |
+| **Inventory & supply-chain systems** | Multi-branch inventory and stock-tracking software for logistics and hardware businesses. |
+
+## 🧭 Experience highlights
+
+- **Product & SaaS:** designing and building my own products end to end — from idea and architecture to launch.
+- **Restaurant management software:** previously built a multi-platform suite (billing / POS, waiter and customer apps, desktop and mobile clients, local-network server) that went on to be used by shops.
+- **Cross-platform apps:** production Flutter apps for Android, iOS and desktop.
+- **Web:** modern websites and web apps with Next.js, TypeScript and Tailwind CSS.
+
+## 🛠️ Tech stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,nextjs,tailwind,nodejs,firebase,supabase,postgres,git,github,figma&perline=7" alt="Tech stack" />
+</p>
+
+**Mobile & desktop:** Flutter · Dart  
+**Web:** Next.js · React · TypeScript · Tailwind CSS  
+**Backend & data:** Firebase · Supabase · REST APIs · PostgreSQL  
+**Tools:** Git · GitHub · Figma
+
+## 📌 Open-source & public projects
+
+- [**restaurant_local_server**](https://github.com/naseefcr/restaurant_local_server) — a local-network server for restaurant apps (Dart, MIT).
+- [**hifz-journey**](https://github.com/naseefcr/hifz-journey) — an app to support Qur'an memorisation (TypeScript).
+- [**restaurant_billing_system**](https://github.com/naseefcr/restaurant_billing_system) — restaurant billing application (Dart).
+- [**taqwa**](https://github.com/naseefcr/taqwa) — a Flutter app (Dart).
+
+> Most of my recent work lives in private repositories for clients and Wellnoc Technologies. If you'd like to see more, just get in touch.
+
+## 🤝 Let's work together
+
+I'm open to **client projects, collaborations and partnerships** — especially around business software, SaaS products and Flutter / Next.js apps.
+
+📧 [naseefcr19@gmail.com](mailto:naseefcr19@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rahman-naseef-c-r-341378226) · 🌐 [Wellnoc Technologies](https://www.wellnoctech.com/)
+
+<div align="center">
+
+<sub>Thanks for visiting. Let's build something useful. ✨</sub>
+
+</div>
