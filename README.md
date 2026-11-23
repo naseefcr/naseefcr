@@ -42,7 +42,6 @@ Alongside building software for clients, I design and ship my own products. I'm 
 | **Workers Pro** | Workforce management app | Android |
 | **Feastvero** | Catering & events management | Android |
 | **Wellnoc Orbit** | Wellnoc's own app | Android |
-| **Al-Bader Islamic App** | Prayer times, Qur'an and duas | iPhone · iPad |
 
 ### Selected client work (via Wellnoc Technologies)
 
